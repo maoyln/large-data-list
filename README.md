@@ -7,3 +7,4 @@
 ![](https://cdn.jsdelivr.net/gh/maoyln/maoyl-img/blog/大数据ListDemo2.gif)
 
 ## 文字图片优化 demo3
+![](https://cdn.jsdelivr.net/gh/maoyln/maoyl-img/blog/大数据表格03.gif)
