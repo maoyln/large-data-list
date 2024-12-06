@@ -1,24 +1,18 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import Base01 from './pages/base01';
+import Base02 from './pages/base02';
+import Base03 from './pages/base03';
+import Base04 from './pages/base04';
+
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Base01/>
+      {/* <Base02 /> */}
+      {/* <Base03 /> */}
+      {/* <Base04 /> */}
     </div>
   );
 }
